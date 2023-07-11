@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74496349300",
+    "project_id": "firtebaseauth2",
+    "storage_bucket": "firtebaseauth2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74496349300:android:8dc154d56dfef14e892d21",
+        "android_client_info": {
+          "package_name": "com.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74496349300-3r8jubusmik28tff16lkqf9po9r0klm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhRUUSOeLfPJ3D3VpOhNxNBN3zP17AhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74496349300-3r8jubusmik28tff16lkqf9po9r0klm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
